@@ -1,1 +1,8 @@
+# Virtual enviroment
 .venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw datasets
+data/raw/

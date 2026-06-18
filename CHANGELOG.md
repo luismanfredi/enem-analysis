@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.3.0] - 2026-06-17
+### Added
+- Initial Jupyter Notebook for data ingestion and structural inspection using DuckDB and Pandas.
+
+### Changed
+- Refactored `pyproject.toml`
+- Improved strucuture and main documentation in the `README.md`
+
 ## [0.2.0] - 2026-06-17
 ### Added
 - Added CHANGELOG.md to track project changes.

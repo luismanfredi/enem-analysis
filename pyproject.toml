@@ -1,0 +1,12 @@
+[project]
+name = "enem-analysis"
+version = "0.3.0"
+description = "Exploratory analysis of ENEM microdata using Python and Libraries."
+requires-python = ">=3.12"
+
+dependencies = [
+    "pandas>=3.0.3",
+    "duckdb>=1.5.4",
+    "jupyter>=1.1.1",
+    "notebook>=7.5.7",
+]
