@@ -6,3 +6,6 @@
 
 # Raw datasets
 data/raw/
+
+# Python cache
+__pycache__/

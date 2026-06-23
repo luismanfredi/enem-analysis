@@ -96,6 +96,7 @@ enem-analysis/
 | v0.1.0  | Initial project structure |
 | v0.2.0  | Add pyproject.toml, LICENSE, CHANGELOG and documentation |
 | v0.3.0  | Initial notebook for data ingestion and structural inspection |
+| v0.4.0  | Reorganized notebook workflow to better reflect the data analysis process |
  
 **Upcoming:**
  

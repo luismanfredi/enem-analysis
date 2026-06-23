@@ -1,6 +1,6 @@
 [project]
 name = "enem-analysis"
-version = "0.3.0"
+version = "0.4.0"
 description = "Exploratory analysis of ENEM microdata using Python and Libraries."
 requires-python = ">=3.12"
 

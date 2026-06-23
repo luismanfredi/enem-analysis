@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.4.0] - 2026-06-23
+### Changed
+- Renamed `02_data_cleaning.ipynb` to `01_data_understanding.ipynb`
+- Reorganized notebook workflow to better reflect the data analysis process
+- Updated README
+- Updated CHANGELOG
+- Updated project metadata
+
+### Removed
+- Initial placeholder, `01_data_recognition.ipynb` notebook containing only a preview of the dataset
+
 ## [0.3.0] - 2026-06-17
 ### Added
 - Initial Jupyter Notebook for data ingestion and structural inspection using DuckDB and Pandas.
