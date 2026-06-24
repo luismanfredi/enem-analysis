@@ -9,4 +9,5 @@ dependencies = [
     "duckdb>=1.5.4",
     "jupyter>=1.1.1",
     "notebook>=7.5.7",
+    "pyarrow>=24.0.0",
 ]

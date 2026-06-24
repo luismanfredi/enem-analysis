@@ -4,8 +4,12 @@
 # Jupyter
 .ipynb_checkpoints/
 
-# Raw datasets
-data/raw/
+# Datasets
+data/raw/*
+data/processed/*
+
+!data/raw/.gitkeep
+!data/processed/.gitkeep
 
 # Python cache
 __pycache__/

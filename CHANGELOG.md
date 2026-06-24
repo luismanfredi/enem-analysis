@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.5.0] - 2026-06-24
+### Added
+- Data cleaning workflow for ENEM microdata
+- Export cleaned dataset to Parquet format
+
+### Changed
+- Added pyarrow depedency
+- Update project documentation
+
 ## [0.4.0] - 2026-06-23
 ### Changed
 - Renamed `02_data_cleaning.ipynb` to `01_data_understanding.ipynb`
